@@ -54,6 +54,9 @@
     "prettier-plugin-tailwindcss": "^0.6.14",
     "tailwindcss": "^4",
     "typescript": "^5"
-    "pnpm-lock.yaml"
+    
   }
 }
+git add package.json pnpm-lock.yaml
+git commit -m "Fix package.json syntax and update lockfile"
+git push
